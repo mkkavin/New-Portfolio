@@ -535,6 +535,7 @@ img {
   }
 
   .home_img {
+    top:20%;
     right: 10%;
   }
 }
